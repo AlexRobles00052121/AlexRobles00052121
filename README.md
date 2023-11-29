@@ -15,10 +15,10 @@ I'm José, Frontend developer. I specialize specifically in React and I really e
 
 ### Contact me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/alexander-robles-10526821a/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/alexander-robles-10526821a/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Salvador Guerra" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/_alexrobles._/" target="blank"><img align="center"
+  <a href="https://www.instagram.com/_alexrobles._/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
 </p>
